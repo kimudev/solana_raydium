@@ -5,6 +5,7 @@ package:
 
 imports:
   raydium_amm_events: https://spkg.io/streamingfast/raydium-amm-events-v0.1.7.spkg
+  spl_token_events: https://spkg.io/streamingfast/spl-token-events-v0.1.7.spkg
 
 binaries:
   default:
